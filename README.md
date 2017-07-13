@@ -9,3 +9,9 @@
     b. Using bash commends like awk in cmd prompt is possible too!
     
       https://www.logicsupply.com/explore/io-hub/how-to-enable-linux-bash-in-windows-10/
+      
+  2. Pandas DataFrame operations
+  
+    a. Opeerations to combine with pd.groupby()
+    
+      https://chrisalbon.com/python/pandas_apply_operations_to_groups.html

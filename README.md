@@ -12,6 +12,14 @@
       
   2. Pandas DataFrame operations
   
-    a. Opeerations to combine with pd.groupby()
+    a. Opeerations to combine with pd.groupby(), such as .unstack()
     
       https://chrisalbon.com/python/pandas_apply_operations_to_groups.html
+      
+    b. use .agg() to find the most frequent value (mode) after df.groupby()
+    
+      https://stackoverflow.com/questions/15222754/group-by-pandas-dataframe-and-select-most-common-string-factor
+      
+    c. binning, or preparing for histogram
+    
+      https://chrisalbon.com/python/pandas_binning_data.html

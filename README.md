@@ -9,8 +9,14 @@
     b. Using bash commends like awk in cmd prompt is possible too!
     
       https://www.logicsupply.com/explore/io-hub/how-to-enable-linux-bash-in-windows-10/
+  
+  2. Algorithms
+  
+    a. Discussion on tree models:
+    
+      https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
       
-  2. Pandas DataFrame operations
+  3. Tricks in Pandas DataFrame operations
   
     a. Opeerations to combine with pd.groupby(), such as .unstack()
     
